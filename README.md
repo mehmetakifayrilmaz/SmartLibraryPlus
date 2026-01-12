@@ -1,4 +1,4 @@
-# SmartLibraryPlus
+
 # 📚 Smart Library Plus (V2.0)
 
 Bu proje, Veritabanı Programlama dersi final ödevi için hazırlanmıştır.
